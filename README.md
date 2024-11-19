@@ -1,6 +1,6 @@
 # React TypeScript Parcel Project
 
-This is a boilerplace project setup using React, TypeScript, and Parcel as the bundler.
+This is a boilerplate project setup using React, TypeScript, and Parcel as the bundler.
 
 ## Table of Contents
 
